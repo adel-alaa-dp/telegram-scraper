@@ -1,4 +1,3 @@
-````markdown
 # Telegram Channel Scraper to Google Sheets
 
 ## Overview
@@ -25,7 +24,7 @@ This tool scrapes messages from a list of Telegram channels and stores the conte
 
 ## Installation
 
-```bash
+```
 pip install telethon pandas openpyxl gspread oauth2client
 ````
 
@@ -40,7 +39,7 @@ pip install telethon pandas openpyxl gspread oauth2client
 
 ## Usage
 
-```bash
+```
 python telegram_scraper_documented.py
 ```
 
